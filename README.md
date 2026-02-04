@@ -6,5 +6,6 @@ i want use this for learning python and ones i understand the basics of this shi
 then continue software devolopment and learn some game engines.
 Thats all ive come up with fr my roadmap now.
 
+                                                               by,"polygonal2012"
 
 THANKS BYE......
