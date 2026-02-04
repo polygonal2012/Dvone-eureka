@@ -7,5 +7,4 @@ then continue software devolopment and learn some game engines.
 Thats all ive come up with fr my roadmap now.
 
                                                                by,"polygonal2012"
-
 THANKS BYE......
